@@ -3,7 +3,9 @@
 int main(void)
 
 {
-printf("hello world!\n");
+printf("1245689\n");
+
+printf("20060918qaz\n");
 
 return 0;
 }
